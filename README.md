@@ -7,15 +7,15 @@
 ## 📸 Screenshots
 
 ### 🩺 Doctor Dashboard
-![Doctor Dashboard](assets/doctor-dashboard.png)
+![Doctor Dashboard](https://github.com/prernabanthiya/Healthcare-Dashboards-Doctor-Patient-/blob/main/doctor_1.png)
 
-![Doctor Dashboard](assets/doctor-dashboard.png)
+![Doctor Dashboard](https://github.com/prernabanthiya/Healthcare-Dashboards-Doctor-Patient-/blob/main/doctor_2.png)
 
 
 ### 👩‍⚕️ Patient Dashboard
-![Patient Dashboard](assets/patient-dashboard.png)
+![Patient Dashboard](https://github.com/prernabanthiya/Healthcare-Dashboards-Doctor-Patient-/blob/main/patient_!.png)
 
-![Patient Dashboard](assets/patient-dashboard.png)
+![Patient Dashboard](https://github.com/prernabanthiya/Healthcare-Dashboards-Doctor-Patient-/blob/main/patient_2.png)
 
 
 ## 📌 Problem Statement
