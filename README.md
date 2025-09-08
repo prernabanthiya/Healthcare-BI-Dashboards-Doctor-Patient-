@@ -4,6 +4,19 @@
 ![Dashboard Demo](hospital-patientdashboard.gif.gif)  
 
 ---
+## 📸 Screenshots
+
+### 🩺 Doctor Dashboard
+![Doctor Dashboard](assets/doctor-dashboard.png)
+
+![Doctor Dashboard](assets/doctor-dashboard.png)
+
+
+### 👩‍⚕️ Patient Dashboard
+![Patient Dashboard](assets/patient-dashboard.png)
+
+![Patient Dashboard](assets/patient-dashboard.png)
+
 
 ## 📌 Problem Statement
 Healthcare data is often stored in multiple disconnected systems such as patients, doctors, appointments, bills, medicines, rooms, surgeries, and satisfaction scores.  
