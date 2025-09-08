@@ -1,8 +1,7 @@
-# 🏥 Hospital Analytics Dashboards (Power BI)
+# 🏥 Healthcare Dashboards (Doctor & Patient)
 
 ## 📹 Demo
-A demo GIF of the dashboards is included in the repository.  
-
+![Dashboard Demo](hospital-patientdashboard.gif.gif)  
 
 ---
 
@@ -63,10 +62,8 @@ The project followed a structured process:
 ---
 
 
-
 ## 🔗 Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/prerna-banthiya/)  
-- Email: prernabanthiya4@gmail.com  
+- LinkedIn: [Prerna Banthiya](https://www.linkedin.com/in/prerna-banthiya/)  
+- Email: **prernabanthiya4@gmail.com**  
 
 ---
-
